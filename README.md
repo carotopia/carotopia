@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 	:dizzy:
 
 I'm Carolina, from Mexico. I really enjoy designing and programming video games, as well as UX design in general. 
 

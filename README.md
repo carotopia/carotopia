@@ -1,8 +1,8 @@
 ### Hi there 	:dizzy:
 
-⭐   I'm Carolina, from Mexico. 
+⭐   I'm Carolina, from Mexico
 
-⭐   I really enjoy designing and programming video games, as well as UX design in general. 
+⭐   I really enjoy designing and programming video games, as well as UX design in general
  
 ⭐   I'm currently studying Computer Science and Technology 
 

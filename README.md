@@ -2,7 +2,7 @@
 
 ⭐   I'm Carolina, from Mexico
 
-⭐   I really enjoy designing and programming video games, as well as UX design in general
+⭐   I really enjoy designing and programming video games, as well as backend development
  
 ⭐   I'm currently studying Computer Science and Technology 
 

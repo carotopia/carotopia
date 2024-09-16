@@ -8,7 +8,7 @@
 
 ⭐   You can contact me on my e-mail at carolara140@gmail.com
 
-⭐   Checkout my portafolio! https://carotopia.github.io/PersonalPortafolio/
+⭐   Checkout my portafolio! https://main--glistening-pegasus-ac9007.netlify.app/
 
 ⭐   Checkout my leetcode profile! https://leetcode.com/profile/account/
 
